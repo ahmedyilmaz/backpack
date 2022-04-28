@@ -65,7 +65,7 @@ a bunch of cool shoutcuts for iOS developers
 ### Continuous Integration (CI) 
 * [**Jenkins app**](https://github.com/stisti/jenkins-app) open source ci  
 	* [**CocoaPods Plugin**](https://wiki.jenkins-ci.org/display/JENKINS/CocoaPods+Plugin) This plugin provides a build step for projects which use CocoaPods.
-	* [**Xcode+Plugin**](https://wiki.jenkins-ci.org/display/JENKINS/Xcode+Plugin) adds the ability to call Xcode command line tools to automate build and packaging iOS applications (iPhone, iPad, ...).   
+	* [**Xcode+Plugin**](https://wiki.jenkins-ci.org/display/JENKINS/Xcode+Plugin) adds the ability to call Xcode command line tools to automate build and packaging iOS applications
 
 ### License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)  
