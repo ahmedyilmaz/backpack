@@ -47,6 +47,21 @@ a bunch of cool shoutcuts for iOS developers
   pod deintegrate
 ```
 
+#### Pod List
+  pod 'lottie-ios'
+  pod 'Firebase/Analytics'
+  pod 'Firebase/Core'
+  pod 'Firebase/RemoteConfig' 
+  pod 'Firebase/Crashlytics' 
+  pod 'openssl-ios-bitcode'
+  pod 'GoogleTagManager'
+  pod 'Adjust'
+  pod "Realm"
+  pod 'Moya'
+  pod "PromiseKit"
+  pod 'SnapKit'
+  pod 'SwiftLint'
+
 [**iterm2**](https://lobster1234.github.io/2017/04/08/setting-up-fish-and-iterm2/)
 ```bash
   fish
