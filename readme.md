@@ -31,6 +31,7 @@ a bunch of cool shoutcuts for iOS developers
   brew install --cask postman
   brew install --cask visual-studio-code
   brew install --cask iterm2
+  brew install --cask sourcetree
   brew install quicktype
 ```
 
@@ -56,7 +57,16 @@ a bunch of cool shoutcuts for iOS developers
 ```bash
 ~/Library/Application Support/SourceTree
 ```
+### Git (source control)
+* [**Swift**](https://github.com/github/gitignore/blob/master/Swift.gitignore):star: .gitignore list  
+* [**Xcode**](https://github.com/github/gitignore/blob/master/Global/Xcode.gitignore) .gitignore list  
+* [**OSX**](https://github.com/github/gitignore/blob/master/Global/OSX.gitignore) .gitignore list  
 
+### Continuous Integration (CI) 
+* [**Jenkins app**](https://github.com/stisti/jenkins-app) open source ci  
+	* [**CocoaPods Plugin**](https://wiki.jenkins-ci.org/display/JENKINS/CocoaPods+Plugin) This plugin provides a build step for projects which use CocoaPods.
+	* [**Xcode+Plugin**](https://wiki.jenkins-ci.org/display/JENKINS/Xcode+Plugin) adds the ability to call Xcode command line tools to automate build and packaging iOS applications (iPhone, iPad, ...).   
 
-
+### License
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)  
 
