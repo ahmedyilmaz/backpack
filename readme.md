@@ -52,5 +52,11 @@ a bunch of cool shoutcuts for iOS developers
   bash install.sh
 ```
 
+## SourceTree Auth Clean
+```bash
+~/Library/Application Support/SourceTree
+```
+
+
 
 
