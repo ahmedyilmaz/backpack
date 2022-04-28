@@ -48,6 +48,7 @@ a bunch of cool shoutcuts for iOS developers
 ```
 
 #### Pod List
+```bash
   pod 'lottie-ios'
   pod 'Firebase/Analytics'
   pod 'Firebase/Core'
@@ -61,6 +62,7 @@ a bunch of cool shoutcuts for iOS developers
   pod "PromiseKit"
   pod 'SnapKit'
   pod 'SwiftLint'
+```
 
 [**iterm2**](https://lobster1234.github.io/2017/04/08/setting-up-fish-and-iterm2/)
 ```bash
