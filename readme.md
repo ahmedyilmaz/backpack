@@ -64,12 +64,6 @@ a bunch of cool shoutcuts for iOS developers
   pod 'SwiftLint'
 ```
 
-[**iterm2**](https://lobster1234.github.io/2017/04/08/setting-up-fish-and-iterm2/)
-```bash
-  fish
-  bash install.sh
-```
-
 #### SourceTree Auth Clean
 ```bash
 ~/Library/Application Support/SourceTree
