@@ -68,6 +68,12 @@ a bunch of cool shoutcuts for iOS developers
 ```bash
 ~/Library/Application Support/SourceTree
 ```
+
+#### App - Web Site Linking
+```bash
+https://search.developer.apple.com/appsearch-validation-tool
+```
+
 ### Git (source control)
 * [**Swift**](https://github.com/github/gitignore/blob/master/Swift.gitignore):star: .gitignore list  
 * [**Xcode**](https://github.com/github/gitignore/blob/master/Global/Xcode.gitignore) .gitignore list  
