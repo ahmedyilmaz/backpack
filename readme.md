@@ -72,6 +72,8 @@ a bunch of cool shoutcuts for iOS developers
 #### App - Web Site Linking
 ```bash
 https://search.developer.apple.com/appsearch-validation-tool
+https://limitless-sierra-4673.herokuapp.com
+https://branch.io
 ```
 
 ### Git (source control)
