@@ -45,6 +45,8 @@ a bunch of cool shoutcuts for iOS developers
   pod repo update
   pod install --no-repo-update
   pod deintegrate
+  rm -rf Pods .xcworkspace && rm Podfile.lock
+  rm ~/Library/Developers/Xcode/DerivedData
 ```
 
 #### Pod List
